@@ -1,2 +1,1 @@
-# lapazcp0-prog.github.io
-La Paz CP Contenido Códigos QR
+# La Paz CP Uruguay - Contenido Códigos QR
